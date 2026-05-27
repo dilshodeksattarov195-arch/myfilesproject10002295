@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercrocess",
+        "uuid": 2990385,
+        "checksum": "xk330p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
